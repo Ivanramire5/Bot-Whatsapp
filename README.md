@@ -7,3 +7,5 @@ librerias para que funcione
 
 $ npm i whatsapp-web.js
 $ npm i qrcode-terminal
+
+para usarlo: npm app.js
